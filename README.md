@@ -3,6 +3,7 @@
 Lo primero de todo que debemos de hacer es clonar el repositorio
 ```bash
 git clone https://github.com/meellaadoo04/wordcount
+```
 
 1. Ejecutamos el Clúster de Hadoop
 Ejecuta el comando docker-compose para levantar el cluster con los siguientes contenedores:namenode, datanode1, datanode2, datanode3, resourcemanager, nodemanager, y historyserver
